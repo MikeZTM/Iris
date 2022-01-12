@@ -9,6 +9,7 @@ pluginManagement {
 		  url = 'https://ajoberstar.org/bintray-backup/'
 		}
 		mavenCentral()
+		gradlePluginPortal()
 	}
 }
 
